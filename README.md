@@ -1,7 +1,7 @@
-# Sistem-Perpustakaan-Sekolah
-Nama Project ini adalah : CuyPerpus
+# Sistem-Perpus-Online
+Nama Project ini adalah : E-Perpus
 
-CuyPerpus adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
+E-Perpus adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
 
 website ini dibuat menggunakan framework bootstrap, javascript, php dan database mysql.
 
@@ -21,4 +21,4 @@ Fitur fitur yang terdapat didalam aplikasi ini :
   - membayar denda
 
 
-Created by Mangandaralam Sakti - Student At SMKN 1 Jakarta
+Created by Messi Arita M - Student At SMKN 8 Semarang
